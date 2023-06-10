@@ -13,9 +13,11 @@ Hi, I'm Ahmed Al-amodi. You might recognize me as GitHub's mascot.
 
 <details>
 <summary>My top THINGS-TO-RANK</summary>
-| Rank | Languages |
+
+ | Rank | Languages |
 |-----:|---------------|
 |     1|               |
 |     2|               |
 |     3|               |
+
 </details>
