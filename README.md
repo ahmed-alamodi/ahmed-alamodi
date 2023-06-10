@@ -4,3 +4,8 @@
 
   <img alt="It's me" src="https://avatars.githubusercontent.com/u/80117376?v=4">
 </picture>
+
+
+## About me
+
+Hi, I'm Ahmed Al-amodi. You might recognize me as GitHub's mascot.
