@@ -21,10 +21,10 @@
 
 ## My GitHub Stats
 
- <img src="https://github-readme-stats.vercel.app/api?username=Adel-Saleh96&show_icons=true&theme=gotham" alt="Adel-Saleh96" width="45%" align="right"/>
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Adel-Saleh96&theme=dark" width="48%" >
+ <img src="https://github-readme-stats.vercel.app/api?username=ahmed-alamodi&show_icons=true&theme=gotham" alt="ahmed-alamodi" width="45%" align="right"/>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-alamodi&theme=dark" width="48%" >
  
 ## Top Languages
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adel-Saleh96&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-alamodi&layout=compact)
   
