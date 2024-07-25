@@ -8,15 +8,15 @@
 
 ## Tech Stack
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-  <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3"/>
+  <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap"/>
   <img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss"/>
   <img alt="React" src="https://shields.io/badge/react-black?logo=react"/>
 
-  <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-black?logo=git"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github"/>
 </p>
 
 ## My GitHub Stats
