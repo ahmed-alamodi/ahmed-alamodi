@@ -13,7 +13,7 @@
   <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
   <img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss"/>
-  <img alt="React" src="https://shields.io/badge/react-black?logo=react&style=for-the-badge"/>
+  <img alt="React" src="https://shields.io/badge/react-black?logo=react"/>
 
   <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
