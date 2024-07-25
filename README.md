@@ -1,24 +1,30 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
- <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+# Hi there. I am Ahmed Al-amodi 👋 . Welcome to my Profile!!
 
-  <img alt="It's me" src="https://avatars.githubusercontent.com/u/80117376?v=4">
-</picture>
-
-
-## About me
-
-Hi, I'm Ahmed Al-amodi. You might recognize me as GitHub's mascot.
+- 🔭 I am currently working as a Frontend Engineer, at <a href="https://www.jisr.net/" target="_blank" title="Jisr"> Jisr </a>.
+- 💬 Ask me about: HTML, CSS,  Git.
+- 📫 How to reach me: <a href="mailto:amodi.ahmedaziz@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)</a> 
+<a href="https://www.linkedin.com/in/ahmed-alamodi">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)</a>
 
 
-<details>
-<summary>My top Languages</summary>
+## Tech Stack
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+  <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+  <img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss"/>
+  <img alt="React" src="https://shields.io/badge/react-black?logo=react&style=for-the-badge"/>
 
- | Rank | Languages |
-|-----:|---------------|
-|     1|        HTML       |
-|     2|            CSS   |
-|     3|        JS       |
-|     4|        TS       |
+  <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
+</p>
 
-</details>
+## My GitHub Stats
+
+ <img src="https://github-readme-stats.vercel.app/api?username=Adel-Saleh96&show_icons=true&theme=gotham" alt="Adel-Saleh96" width="45%" align="right"/>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Adel-Saleh96&theme=dark" width="48%" >
+ 
+## Top Languages
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adel-Saleh96&layout=compact)
+  
