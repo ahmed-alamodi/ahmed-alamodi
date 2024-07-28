@@ -18,6 +18,8 @@
       src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     <img alt="JavaScript"
       src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img alt="Typescript"
+      src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap" />
     <img alt="Tailwindcss"
       src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -28,6 +30,7 @@
 </p>
 
 ## My GitHub Stats
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmed-alamodi&repo=github-readme-stats)](https://github.com/ahmed-alamodi/github-readme-stats)
 
  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-alamodi&show_icons=true&theme=gotham" alt="ahmed-alamodi" width="45%" align="right"/>
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-alamodi&theme=dark" width="48%" >
