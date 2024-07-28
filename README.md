@@ -30,9 +30,7 @@
 </p>
 
 ## My GitHub Stats
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmed-alamodi&repo=github-readme-stats)](https://github.com/ahmed-alamodi/github-readme-stats)
-
- <img src="https://github-readme-stats.vercel.app/api?username=ahmed-alamodi&show_icons=true&theme=gotham" alt="ahmed-alamodi" width="45%" align="right"/>
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=ahmed-alamodi&show_icons=true&theme=gotham&repo=github-readme-stats)](https://github.com/ahmed-alamodi/github-readme-stats)
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-alamodi&theme=dark" width="48%" >
  
 ## Top Languages
