@@ -8,6 +8,12 @@
 
 ## Tech Stack
 <p>
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3"/>
+  <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap"/>
+  <img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss"/>
+  <img alt="React" src="https://shields.io/badge/react-black?logo=react"/>
+  
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
