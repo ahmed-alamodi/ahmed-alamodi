@@ -35,5 +35,5 @@
  
 ## Top Languages
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-alamodi&layout=compact)
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saeed-Beraia)](https://github.com/Saeed-Beraia/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saeed-Beraia&layout=compact)](https://github.com/abubkerdarwish20/github-readme-stats&layout=compact)
