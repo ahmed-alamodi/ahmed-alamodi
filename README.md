@@ -2,8 +2,11 @@
 
 - 🔭 I am currently working as a Frontend Engineer, at <a href="https://www.jisr.net/" target="_blank" title="Jisr"> Jisr </a>.
 - 💬 Ask me about: HTML, CSS,  Git.
-- 📫 How to reach me: <a href="mailto:amodi.ahmedaziz@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)</a> 
-<a href="https://www.linkedin.com/in/ahmed-alamodi">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)</a>
+- 📫 How to reach me: <a target="_blank" href="mailto:amodi.ahmedaziz@gmail.com">![Email
+    Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+  <a target="_blank"
+    href="https://www.linkedin.com/in/ahmed-alamodi">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
+
 
 
 ## Tech Stack
