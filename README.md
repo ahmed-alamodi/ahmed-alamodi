@@ -35,3 +35,8 @@
  
 ## Top Languages
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-alamodi)](https://github.com/ahmed-alamodi/github-readme-stats)
+
+  ## Visitor count
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/ahmed-alamodi/count.svg" />
+</p>
