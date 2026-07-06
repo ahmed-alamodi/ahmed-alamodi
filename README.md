@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ahmed Al-amodi 👋</h1>
 
 <p align="center">
-  Frontend Engineer focused on building modern, fast, and SEO-friendly web experiences.
+  Frontend Engineer building modern, fast, and SEO-friendly web experiences.
 </p>
 
 <p align="center">
@@ -10,6 +10,9 @@
   </a>
   <a href="https://www.linkedin.com/in/ahmed-alamodi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/967770696833">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://github.com/ahmed-alamodi">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -22,9 +25,9 @@
 
 - 🔭 I’m currently working as a **Frontend Engineer** at [Jisr](https://www.jisr.net/)
 - ⚡ I work on marketing websites, CMS-driven pages, SEO, performance, and frontend architecture
-- 🧩 I enjoy building clean UI, reusable components, and improving Core Web Vitals
+- 🧩 I enjoy building clean UI, reusable components, and scalable frontend features
 - 💬 Ask me about **React, Next.js, TypeScript, Tailwind CSS, Strapi, Git, and frontend performance**
-- 📚 Currently improving my skills in **testing, SSR/RSC patterns, and scalable frontend structure**
+- 📚 Currently improving my skills in **testing, SSR/RSC patterns, and Core Web Vitals**
 
 ---
 
@@ -94,12 +97,21 @@
 ## GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmed-alamodi&show_icons=true&theme=gotham&hide_border=true" alt="Ahmed's GitHub Stats" />
-  <img width="48%" src="https://streak-stats.vercel.app?user=ahmed-alamodi&theme=gotham&hide_border=true" alt="Ahmed's GitHub Streak" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmed-alamodi&theme=github_dark" alt="Ahmed's GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-alamodi&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmed-alamodi&theme=github_dark" alt="Repos per Language" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmed-alamodi&theme=github_dark" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmed-alamodi&theme=github_dark" alt="GitHub Stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmed-alamodi&theme=github_dark&utcOffset=3" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.vercel.app?user=ahmed-alamodi&theme=gotham&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
